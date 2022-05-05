@@ -40,12 +40,13 @@ main {
 h1 {
     color: var(--white-color);
     font-size: 22px;
-    padding: 20px 0 16px;
+    padding: 20px 0 16px 0;
 }
 
 .main-p {
     color: var(--soft-blue-color);
     font-size: 18px;
+    letter-spacing: 0.1px;
     line-height: 26px;
     opacity: 0.8;
 }
@@ -62,11 +63,11 @@ h1 {
 }
 
 .amount-img-ethereum {
-    padding: 0 7px 0 0;
+    padding: 0 6px 0 0;
 }
 
 .amount-img-clock {
-    padding: 0 7px 0 0;
+    padding: 0 6px 0 0;
 }
 
 .amount-p-ethereum {
@@ -79,7 +80,6 @@ h1 {
 .amount-p-clock {
     color: var(--soft-blue-color);
     font-size: 16px;
-    letter-spacing: 0.2px;
 }
 
 .divider {
@@ -91,7 +91,7 @@ h1 {
 .creator {
     display: flex;
     align-items: center;
-    padding: 15px 0 9px 0;
+    padding: 14px 0 10px 0;
 }
 
 .creator-img {
