@@ -111,6 +111,7 @@ h1 {
 .creator span {
     color: var(--white-color);
     cursor: pointer;
+    letter-spacing: 2px;
     padding: 0 2px;
 }
 
