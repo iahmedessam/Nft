@@ -79,7 +79,7 @@ h1 {
 .amount-p-clock {
     color: var(--soft-blue-color);
     font-size: 16px;
-    padding: 0 1px 0 0;
+    padding: 0 2px 0 0;
 }
 
 .divider {
@@ -108,10 +108,9 @@ h1 {
 }
 }
 
-.creator span {
+.creator-p-span {
     color: var(--white-color);
-    cursor: pointer;
-    letter-spacing: 2px;
+    letter-spacing: 0.2px;
     padding: 0 2px;
 }
 
