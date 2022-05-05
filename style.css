@@ -40,7 +40,7 @@ main {
 h1 {
     color: var(--white-color);
     font-size: 22px;
-    padding: 19px 0 17px;
+    padding: 20px 0 16px;
 }
 
 .main-p {
@@ -108,7 +108,6 @@ h1 {
 
 .creator span {
     color: var(--white-color);
-    letter-spacing: 0.2px;
     cursor: pointer;
     padding: 0 2px;
 }
